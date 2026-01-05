@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ぐーちょきパレード",
+  "base_artist": "とりぷる▲ふぃーりんぐ",
+  "createdAt": "2026-01-05T11:48:28.592013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぐーちょきパレード",
+      "artist": "とりぷる♣ふぃーりんぐ",
+      "has_synced": true,
+      "path": "select/01_ぐーちょきパレード_とりぷる♣ふぃーりんぐ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぐーちょきパレード",
+      "artist": "とりぷる▲ふぃーりんぐ",
+      "has_synced": true,
+      "path": "select/02_ぐーちょきパレード_とりぷる▲ふぃーりんぐ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぐーちょきパレード",
+      "artist": "とりぷる▲ふぃーりんぐ",
+      "has_synced": false,
+      "path": "select/pl_01_ぐーちょきパレード_とりぷる▲ふぃーりんぐ.txt"
+    }
+  ]
+}
